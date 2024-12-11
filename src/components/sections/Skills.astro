@@ -18,6 +18,9 @@ import Kotlin from "@/icons/kotlin.astro";
 import Flutter from "@/icons/flutter.astro";
 import Figma from "@/icons/Figma.astro";
 import Gitlab from "@/icons/Gitlab.astro";
+import Python from "@/icons/python.astro";
+import Java from "@/icons/java.astro";
+import Sql from "@/icons/sql.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
 	HTML,
@@ -37,6 +40,9 @@ const SKILLS_ICONS: Record<string, any> = {
 	Flutter,
 	Figma,
 	Gitlab,
+	Python,
+	Java,
+	Sql
 };
 ---
 
@@ -48,7 +54,7 @@ const SKILLS_ICONS: Record<string, any> = {
 				const Icon = SKILLS_ICONS[iconName];
 
 				return (
-					<li class="border-skin-hue/20s bg-skin-button-accent/20s borders border-solids flex items-center gap-1 rounded-md px-2 py-0.5 text-xs text-skin-muted print:border-none print:bg-transparent print:p-0 print:text-zinc-800">
+					<li class="border-skin-hue/20s bg-skin-button-accent/20s borders border-solids flex items-center gap-4 rounded-md px-2 py-0.5 text-xs text-skin-muted print:border-none print:bg-transparent print:p-0 print:text-zinc-800">
 						{Icon && <Icon />} <span>{name}</span>
 					</li>
 				);

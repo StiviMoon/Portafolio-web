@@ -1,187 +1,254 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Steven Rodriguez",
     "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "image": "/koi.jpg",
+    "email": "steven.rodriguezlop@gmail.com",
+    "phone": "+57 3235018878",
+    "url": "https://stivimoon.dev",
+    "summary": "Estudiante avanzado en Tecnología en Desarrollo de Software, con experiencia en el diseño, desarrollo, implementación, pruebas y mantenimiento de sistemas seguros, eficientes y de alta calidad. Comprometido con la creación de soluciones innovadoras que optimicen procesos y mejoren la experiencia del usuario, aplicando buenas prácticas y metodologías modernas de desarrollo.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Cali",
+      "countryCode": "COL",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "Steven Rodriguez",
+        "url": "https://www.linkedin.com/in/johan-steven-rodriguez-lopez/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "StiviMoon",
+        "url": "https://github.com/StiviMoon"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Tech Startup Koop",
+      "position": "Desarrollador Front-End ",
+      "location_type": "Remoto",
+      "location": "Cali, Colombia",
+      "url": "https://koop.com.co",
+      "startDate": "2024-10-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Desarrollo y mantenimiento de aplicaciones web utilizando React, Nextjs, MUI, Tailwinds tambien Colaborar con el equipo para implementar nuevas funciones y corregir errores mejorando la calidad de los sistemas web que desarrollamos",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Colaboré con desarrolladores senior para diseñar e implementar aplicaciones web utilizando marcos JavaScript modernos.",
+        "Ayudó en la depuración y optimización del código de front-end para garantizar una experiencia de usuario fluida.",
+        "Participé en revisiones de código y contribuí a mejorar los estándares de codificación dentro del equipo"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Diseñé y optimicé el apartado 'Candidato' en un sistema web utilizado por empresas, mejorando la experiencia de usuario y la funcionalidad para la evaluación psicológica de candidatos."
       ],
       "skills": [
+        "Next",
         "React",
         "Tailwind",
+        "Git",
         "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "name": "DazaTours",
+      "position": "Desarrollador Web Freelance",
+      "location_type": "Remoto",
+      "location": "Medellin, Colombia",
+      "url": "https://dazatours.netlify.app",
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-01",
+      "summary": "Desarrollé un sitio web para DazaTours, una agencia de turismo en Colombia especializada en ofrecer experiencias únicas a través de una amplia variedad de tours en destinos icónicos como Medellín, Cali y Cartagena, así como en otras regiones del país. ",
+     
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Diseñé el prototipo del sitio web en Figma, asegurando una representación visual coherente con la identidad de marca de la agencia y siguiendo principios de diseño UX/UI centrados en la experiencia del usuario.",
+        "Implementé el prototipo utilizando el framework React para la lógica del frontend y Tailwind CSS para estilizar de forma eficiente, manteniendo consistencia visual y optimización del rendimiento.",
+        "Integré funcionalidades interactivas y responsive, garantizando que el sitio se adapte correctamente a diferentes dispositivos y ofrezca una experiencia fluida a los usuarios."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "El sitio web aumentó las ganancias de la agencia y mejoró su reconocimiento en un 30%"
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "React",
+        "HTML",
+        "CSS",
+        "Git",
+        "GitHub"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "Studio Rosso Agency",
+      "position": "Desarrollador Junior Web",
+      "location_type": "Remoto",
+      "location": "Cali, Colombia",
+      "url": "https://www.behance.net/gallery/213678865/Portfolio-Design",
+      "startDate": "2024-11-01",
+      "endDate": null,
+      "summary": "Desarrollador web en Studio Rosso, una agencia de comunicación digital especializada en impulsar el reconocimiento de marca y el crecimiento digital de empresas.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Desarrollar sitio web con exito"
+      ],
+      "responsibilities": [
+        "Implementé técnicas de desarrollo web que redujeron los tiempos de carga de los sitios en un 40%, mejorando la experiencia del usuario y el posicionamiento SEO.",
+        "Colaboré en estrategias que incrementaron el tráfico orgánico de los sitios web de los clientes hasta en un 50%, utilizando enfoques centrados en diseño UX/UI y optimización técnica."
+      ],
+      "achievements": [
+        "Impulsé el posicionamiento y reconocimiento en línea de nuestros clientes mediante estrategias efectivas de desarrollo web, diseño optimizado para SEO y la integración de herramientas digitales que mejoraron su presencia en internet y atrajeron a su público objetivo."
       ],
       "skills": [
         "HTML",
-        "CSS"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "CSS",
+        "JavaScript"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Universidad del Valle",
+      "url": "https://www.univalle.edu.co/",
+      "area": "Tecnologo en Desarrollo de Software",
+      "studyType": "Tecnologo",
+      "startDate": "2023-06-01",
+      "endDate": "2026-06-01",
+      "score": "5.0",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "(ADA) - Análisis y Diseño de Algoritmos",
+        "(SO) - Advanced Software Development",
+        "(BD) -  Bases de datos"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "institution": "SENA",
+      "url": "https://www.sena.edu.co",
+      "area": "Analisis y Desarrollo de Software",
+      "studyType": "Tecnologo",
+      "startDate": "2024-06-01",
+      "endDate": "2026-12-01",
+      "score": "4.9",
       "courses": [
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
+      "name": "Desarrollador Web Full Stack",
+      "date": "2024-06-01",
+      "issuer": "Talento Tech",
       "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Fundamentos del desarrollo de software",
+      "date": "2024-09-01",
+      "issuer": "Microsoft",
+      "url": "https://www.linkedin.com/learning/certificates/3d5ea0fb76d55a3e55585c065ac73bbd422d18c95d29feae041dc7d0d13b3a83?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BV93Zv%2FhURbqXWbpsXfrFWA%3D%3D"
+    },
+    {
+      "name": "Google Cloud Computing Foundations Certificate",
+      "date": "2024-05-01",
+      "issuer": "Google",
+      "url": "https://www.credly.com/badges/92390fa6-927b-4f86-a64c-23db1aad833d/linked_in_profile"
+    },
+    {
+      "name": "Ciberseguridad de Google",
+      "date": "2023-08-01",
+      "issuer": "Google",
+      "url": "https://www.coursera.org/account/accomplishments/professional-cert/3QQVZFBJ3RTK"
+    },
+    {
+      "name": "Programación con JavaScript",
+      "date": "2023-05-01",
+      "issuer": "Alura",
+      "url": "https://app.aluracursos.com/degree/certificate/7d0f70ae-c247-49a9-b413-ac6422b99c48?lang"
     }
   ],
   "skills": [
+    
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Python",
+        "Server"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Java",
+        "Server"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
     {
       "name": "Figma",
       "level": "Expert",
       "keywords": [
         "Design",
         "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
       ]
     },
     {
@@ -202,47 +269,17 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
       "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Kotlin",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -269,37 +306,16 @@
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Ingles",
+      "fluency": "Intermedio"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "Español",
+      "fluency": "Nativo"
     }
   ],
   "interests": [
@@ -313,52 +329,57 @@
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "Valentina Reyes",
+      "reference": "Comunicadora Visual CEO de Studio Rosso"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "GreenPulse",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Sistema avanzado para el monitoreo y análisis en tiempo real de la calidad del aire en la ciudad de Cali, diseñado para ofrecer datos precisos, visualizaciones interactivas y alertas oportunas, promoviendo una gestión ambiental más eficiente y sostenible.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Realizado con React y Tailwind CSS",
+        "Haciendo uso de una API de Maps",
+        "Geolocalización y rastreo de ubicación exacta mediante IP"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://greenpulsse.netlify.app/",
+      "github": "https://github.com/StiviMoon/ProyectoGreenPulse"
     },
     {
-      "name": "Task Manager",
+      "name": "HelpIA",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Solución innovadora que optimizara la gestión de solicitudes, combinando visualización de datos históricos, predicciones futuras basadas en inteligencia artificial y recomendaciones estratégicas.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Frontend: React.js, utilizando MUI y TailwindCSS para un diseño moderno y accesible, Chart.js para gráficos interactivos que permitieron visualizar datos históricos y predicciones en tiempo real.",
+        "Backend: Node.js con Express y Python FastAPI para manejar la lógica del servidor y procesar las solicitudes de predicción."
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://codeanalytics.netlify.app/",
+      "github": "https://github.com/StiviMoon/Sistema-Inteligente-IA"
+
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Daza Tours",
+      "isActive": true,
+      "description": "Este proyecto fue una experiencia integral que me permitió aplicar y expandir mis habilidades en desarrollo web, diseño gráfico y gestión de proyectos, mientras colaboraba estrechamente con profesionales de otras disciplinas.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Utilicé React y Tailwind CSS para crear una interfaz moderna y receptiva que mejora la experiencia del usuario",
+        "Implementé la optimización de imágenes para mejorar el rendimiento del sitio"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://dazatours.netlify.app/",
+      "github": "https://github.com/StiviMoon/DazaTours"
+    },
+    {
+      "name": "Encriptador de texto",
+      "isActive": true,
+      "description": "Practicando Lógica en mi curso con ALURA LATAM desarrollé este sitio web para encriptar texto",
+      "highlights": [
+        "Totalmente responsivo, diseñado para funcionar en cualquier dispositivo.",
+        "Este proyecto no solo me permitió aplicar los conocimientos adquiridos, sino también enfrentar y superar desafíos reales en el desarrollo web."
+      ],
+      "url": "https://stivimoon.github.io/Encriptador_Txt/",
+      "github": "https://github.com/StiviMoon"
+
     }
   ]
 }
