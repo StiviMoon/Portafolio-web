@@ -143,7 +143,7 @@
       "name": "Desarrollador Web Full Stack",
       "date": "2024-06-01",
       "issuer": "Talento Tech",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://talentotechvalle.co/"
     },
     {
       "name": "Fundamentos del desarrollo de software",
@@ -162,6 +162,12 @@
       "date": "2023-08-01",
       "issuer": "Google",
       "url": "https://www.coursera.org/account/accomplishments/professional-cert/3QQVZFBJ3RTK"
+    },
+    {
+      "name": "Database Design",
+      "date": "2024-12-12",
+      "issuer": "Oracle",
+      "url": "https://academy.oracle.com/es/"
     },
     {
       "name": "Programación con JavaScript",
@@ -270,16 +276,6 @@
     },
     {
       "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Kotlin",
       "level": "Intermediate",
       "keywords": [
         "Databases",
