@@ -6,14 +6,12 @@
     "email": "steven.rodriguezlop@gmail.com",
     "phone": "+57 3235018878",
     "url": "https://stivimoon.dev",
-    "summary": "Estudiante avanzado en Tecnología en Desarrollo de Software, con experiencia en el diseño, desarrollo, implementación, pruebas y mantenimiento de sistemas seguros, eficientes y de alta calidad. Comprometido con la creación de soluciones innovadoras que optimicen procesos y mejoren la experiencia del usuario, aplicando buenas prácticas y metodologías modernas de desarrollo.",
-    "theme": "default",
+    "summary": "Soy un desarrollador Full Stack apasionado por transformar ideas en soluciones tecnológicas innovadoras. Con experiencia en el desarrollo de interfaces atractivas y funcionales, y backend escalable y seguro, estoy comprometido con la creación de productos que optimicen procesos y mejoren la experiencia del usuario. Busco constantemente desafíos que me permitan crecer profesionalmente y contribuir al avance tecnológico.",
+    "theme": "modern",
     "location": {
-      "address": "",
-      "postalCode": "10001",
       "city": "Cali",
-      "countryCode": "COL",
-      "region": "Colombia"
+      "region": "Valle del Cauca",
+      "countryCode": "COL"
     },
     "profiles": [
       {
@@ -31,110 +29,101 @@
   "work": [
     {
       "name": "Tech Startup Koop",
-      "position": "Desarrollador Front-End ",
+      "position": "Desarrollador Front-End",
       "location_type": "Remoto",
       "location": "Cali, Colombia",
       "url": "https://koop.com.co",
       "startDate": "2024-10-01",
       "endDate": null,
-      "summary": "Desarrollo y mantenimiento de aplicaciones web utilizando React, Nextjs, MUI, Tailwinds tambien Colaborar con el equipo para implementar nuevas funciones y corregir errores mejorando la calidad de los sistemas web que desarrollamos",
+      "summary": "Desarrollé y diseñé un sistema de evaluación psicológica compuesto por diversos tests que los candidatos completan para aplicar a ofertas laborales, mejorando la eficiencia del proceso de selección.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Optimización del rendimiento del sitio web mediante mejoras en el código y la estructura.",
+        "Implementación de interfaces de usuario dinámicas y responsivas utilizando React y Next.js."
       ],
       "responsibilities": [
-        "Colaboré con desarrolladores senior para diseñar e implementar aplicaciones web utilizando marcos JavaScript modernos.",
-        "Ayude en la depuración y optimización del código de front-end para garantizar una experiencia de usuario fluida.",
-        "Participé en revisiones de código y contribuí a mejorar los estándares de codificación dentro del equipo"
+        "Diseño e implementación de interfaces de usuario dinámicas y responsivas.",
+        "Colaboración con equipos multidisciplinarios para desarrollar nuevas funcionalidades.",
+        "Depuración y optimización del código front-end para garantizar una experiencia fluida."
       ],
       "achievements": [
-        "Diseñé y optimicé el apartado 'Candidato' en un sistema web utilizado por empresas, mejorando la experiencia de usuario y la funcionalidad para la evaluación psicológica de candidatos."
+        "Diseñé y desarrollé una interfaz de usuario moderna y atractiva para que los candidatos pudieran realizar su proceso de selección de manera más eficiente, brindando una serie de herramientas para que pudieran ser evaluados de manera más eficiente."
       ],
-      "skills": [
-        "Next",
-        "React",
-        "Tailwind",
-        "Git",
-        "GitHub"
-      ]
+      "skills": ["React", "Next.js", "Tailwind CSS", "Git", "GitHub"]
+    },
+    
+    {
+      "name": "Studio Rosso Agency",
+      "position": "Desarrollador Web",
+      "location_type": "Remoto",
+      "location": "Cali, Colombia",
+      "url": "https://www.behance.net/gallery/213678865/Portfolio-Design",
+      "startDate": "2024-06-02",
+      "endDate": "2024-12-01",
+      "summary": "Desarrollé un sitio web moderno y atractivo para una agencia de diseño, mejorando la visibilidad y la interacción con los clientes a través de estrategias de diseño UX/UI.",
+      "highlights": [
+        "Reducción de tiempos de carga en un 40% mediante optimización técnica.",
+        "Implementación de estrategias de diseño UX/UI para incrementar el tráfico orgánico en un 50%."
+      ],
+      "responsibilities": [
+        "Reducción de tiempos de carga en un 40% mediante optimización técnica.",
+        "Estrategias de diseño UX/UI para incrementar el tráfico orgánico en un 50%."
+      ],
+      "achievements": [
+        "Mejora del reconocimiento de marca y atracción de público objetivo a través de herramientas digitales."
+      ],
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Figma", "Git", "GitHub", "Tailwind CSS"]
     },
     {
       "name": "DazaTours",
       "position": "Desarrollador Web Freelance",
       "location_type": "Remoto",
-      "location": "Medellin, Colombia",
+      "location": "Medellín, Colombia",
       "url": "https://dazatours.netlify.app",
-      "startDate": "2024-01-01",
-      "endDate": "2024-06-01",
-      "summary": "Desarrollé un sitio web para DazaTours, una agencia de turismo en Colombia especializada en ofrecer experiencias únicas a través de una amplia variedad de tours en destinos icónicos como Medellín, Cali y Cartagena, así como en otras regiones del país. ",
-     
-      "responsibilities": [
-        "Diseñé el prototipo del sitio web en Figma, asegurando una representación visual coherente con la identidad de marca de la agencia y siguiendo principios de diseño UX/UI centrados en la experiencia del usuario.",
-        "Implementé el prototipo utilizando el framework React para la lógica del frontend y Tailwind CSS para estilizar de forma eficiente, manteniendo consistencia visual y optimización del rendimiento.",
-        "Integré funcionalidades interactivas y responsive, garantizando que el sitio se adapte correctamente a diferentes dispositivos y ofrezca una experiencia fluida a los usuarios."
-      ],
-      "achievements": [
-        "El sitio web aumentó las ganancias de la agencia y mejoró su reconocimiento en un 30%"
-      ],
-      "skills": [
-        "React",
-        "HTML",
-        "CSS",
-        "Git",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Studio Rosso Agency",
-      "position": "Desarrollador Junior Web",
-      "location_type": "Remoto",
-      "location": "Cali, Colombia",
-      "url": "https://www.behance.net/gallery/213678865/Portfolio-Design",
-      "startDate": "2024-11-01",
-      "endDate": null,
-      "summary": "Desarrollador web en Studio Rosso, una agencia de comunicación digital especializada en impulsar el reconocimiento de marca y el crecimiento digital de empresas.",
+      "startDate": "2023-10-01",
+      "endDate": "2024-04-01",
+      "summary": "Diseñé y desarrollé un sitio web optimizado para una agencia de turismo, incrementando su visibilidad y atracción de clientes mediante la implementación de diseño responsivo y prototipos basados en principios de diseño UX/UI.",
       "highlights": [
-        "Desarrollar sitio web con exito"
+        "Creación de prototipos en Figma basados en principios de diseño UX/UI.",
+        "Desarrollo del sitio web utilizando React y Tailwind CSS.",
+        "Implementación de diseño responsivo para mejorar la experiencia en dispositivos móviles."
       ],
       "responsibilities": [
-        "Implementé técnicas de desarrollo web que redujeron los tiempos de carga de los sitios en un 40%, mejorando la experiencia del usuario y el posicionamiento SEO.",
-        "Colaboré en estrategias que incrementaron el tráfico orgánico de los sitios web de los clientes hasta en un 50%, utilizando enfoques centrados en diseño UX/UI y optimización técnica."
+        "Creación de prototipos en Figma basados en principios de diseño UX/UI.",
+        "Desarrollo del sitio web utilizando React y Tailwind CSS.",
+        "Implementación de diseño responsivo para mejorar la experiencia en dispositivos móviles."
       ],
       "achievements": [
-        "Impulsé el posicionamiento y reconocimiento en línea de nuestros clientes mediante estrategias efectivas de desarrollo web, diseño optimizado para SEO y la integración de herramientas digitales que mejoraron su presencia en internet y atrajeron a su público objetivo."
+        "Aumento del reconocimiento y ganancias de la agencia en un 30%."
       ],
-      "skills": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "skills": ["React", "HTML", "CSS", "Git", "GitHub"]
     }
   ],
   "education": [
     {
       "institution": "Universidad del Valle",
       "url": "https://www.univalle.edu.co/",
-      "area": "Tecnologo en Desarrollo de Software",
-      "studyType": "Tecnologo",
+      "area": "Desarrollo de Software",
+      "studyType": "Tecnólogo",
       "startDate": "2023-06-01",
       "endDate": "2026-06-01",
       "score": "5.0",
       "courses": [
-        "(ADA) - Análisis y Diseño de Algoritmos",
-        "(SO) - Advanced Software Development",
-        "(BD) -  Bases de datos"
+        "Análisis y Diseño de Algoritmos (ADA)",
+        "Desarrollo Avanzado de Software (SO)",
+        "Bases de Datos (BD)"
       ]
     },
     {
       "institution": "SENA",
       "url": "https://www.sena.edu.co",
-      "area": "Analisis y Desarrollo de Software",
-      "studyType": "Tecnologo",
+      "area": "Análisis y Desarrollo de Software",
+      "studyType": "Tecnólogo",
       "startDate": "2024-06-01",
       "endDate": "2026-12-01",
       "score": "4.9",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+        "Desarrollo Avanzado de Software (SE201)",
+        "Arquitectura y Diseño de Software (SE202)"
       ]
     }
   ],
@@ -146,7 +135,7 @@
       "url": "https://talentotechvalle.co/"
     },
     {
-      "name": "Fundamentos del desarrollo de software",
+      "name": "Fundamentos del Desarrollo de Software",
       "date": "2024-09-01",
       "issuer": "Microsoft",
       "url": "https://www.linkedin.com/learning/certificates/3d5ea0fb76d55a3e55585c065ac73bbd422d18c95d29feae041dc7d0d13b3a83?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BV93Zv%2FhURbqXWbpsXfrFWA%3D%3D"
