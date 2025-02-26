@@ -28,6 +28,29 @@
   },
   "work": [
     {
+      "name": "Vendly",
+      "position": "Desarrollador Front-End",
+      "location_type": "Remoto",
+      "location": "Bogota, Colombia",
+      "url": "https://Vendly.co",
+      "startDate": "2025-02-17",
+      "endDate": null,
+      "summary": "Estoy encargado del desarrollo de una plataforma web la cual permite ganar clientes potenciales y aumentar las ventas de los comercios locales.",
+      "highlights": [
+        "Optimización del rendimiento del sitio web mediante mejoras en el código y la arquitectura.",
+        "Desarrollo de interfaces de usuario dinámicas y responsivas utilizando  Next.js y Tailwind CSS."
+      ],
+      "responsibilities": [
+        "Diseño e implementación de interfaces de usuario dinámicas y responsivas.",
+        "Colaboración con equipos multidisciplinarios para desarrollar nuevas funcionalidades.",
+        "Depuración y optimización del código front-end para garantizar una experiencia fluida."
+      ],
+      "achievements": [
+        "Diseñé y desarrollé una interfaz de usuario moderna y atractiva para que los candidatos pudieran realizar su proceso de selección de manera más eficiente, brindando una serie de herramientas para que pudieran ser evaluados de manera más eficiente."
+      ],
+      "skills": [ "Next.js", "TypeScript","Tailwind CSS", "Git", "GitHub"]
+    },
+    {
       "name": "Tech Startup Koop",
       "position": "Desarrollador Front-End",
       "location_type": "Remoto",
